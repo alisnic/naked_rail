@@ -13,7 +13,7 @@ A ready to go Rails 3.2.9 app!
 - shoulda (for easy testing models)
 
 **General:**
-- a Pages controller, which will render it's action
+- a Pages controller, which will render its action
 - useful partials: flash_messages, validation_errors
 - use HAML by default
 - Twitter bootstrap included
