@@ -16,6 +16,7 @@ General:
 - a Pages controller, which will render it's action
 - useful partials: flash_messages, validation_errors
 - use HAML by default
+- Twitter bootstrap included
 
 Using Naked Rail to start a project:
 1. clone repo
