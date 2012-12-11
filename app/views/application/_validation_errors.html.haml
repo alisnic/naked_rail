@@ -1,0 +1,5 @@
+- if resource.errors.present?
+  .alert-box.alert
+    - resource.errors.full_messages.each do |m|
+      = m
+      %br

@@ -1,0 +1,3 @@
+- flash.each do |key, message|
+  .alert{:class => 'alert-' + key.to_s}
+    = message
