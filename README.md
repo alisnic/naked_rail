@@ -12,17 +12,18 @@ A ready to go Rails 3.2.9 app!
 - factory_girl
 - shoulda (for easy testing models)
 
-**General:**
+**General**
 - a Pages controller, which will render its action
 - useful partials: flash_messages, validation_errors
 - use HAML by default
 - Twitter bootstrap included
 
-**Using Naked Rail to start a project:**
+**Using Naked Rail to start a project**
 - clone repo
 - `rm -rf .git`
 - `git init`
 - continue your development
 
-Note:
+**Notes**
+
 to make the capybara-webkit gem compile, [visit this url](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
