@@ -16,3 +16,9 @@ General:
 - a Pages controller, which will render it's action
 - useful partials: flash_messages, validation_errors
 - use HAML by default
+
+Using Naked Rail to start a project:
+1. clone repo
+2. `rm -rf .git`
+3. `git init`
+4. continue your development
