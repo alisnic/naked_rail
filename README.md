@@ -23,3 +23,6 @@ A ready to go Rails 3.2.9 app!
 - `rm -rf .git`
 - `git init`
 - continue your development
+
+Note:
+to make the capybara-webkit gem compile, [visit this url](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
