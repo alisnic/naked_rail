@@ -1,16 +1,17 @@
 # Naked Rails!
-A ready to go Rails 3.2.9 app!
+A ready to go Rails 3.2.11 app!
 
 ## Featuring
 
 **Development:**
 - better_errors
+- guard livereload (run guard in project root to enable it, also install the browser extension)
 
 **Testing**
 - rspec
 - capybara, capybara-webkit, headless with navigations steps
 - factory_girl
-- shoulda (for easy testing models)
+- shoulda (for easy model testing)
 
 **General**
 - a Pages controller, which will render its action
