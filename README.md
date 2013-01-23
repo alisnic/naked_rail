@@ -5,7 +5,7 @@ A ready to go Rails 3.2.11 app!
 
 **Development:**
 - better_errors
-- guard livereload (run guard in project root to enable it, also install the browser extension)
+- guard livereload (run guard in project root to enable it, also install [the browser extension][1])
 
 **Testing**
 - rspec
@@ -28,4 +28,7 @@ A ready to go Rails 3.2.11 app!
 
 **Notes**
 
-to make the capybara-webkit gem compile, [visit this url](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
+to make the capybara-webkit gem compile, [visit this url][2]
+
+[1]: https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en
+[2]: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit
