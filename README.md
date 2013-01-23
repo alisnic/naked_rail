@@ -14,6 +14,7 @@ A ready to go Rails 3.2.11 app!
 - shoulda (for easy model testing)
 
 **General**
+- `/` is mapped to `pages/index` action
 - a Pages controller, which will render its action
 - useful partials: flash_messages, validation_errors
 - use HAML by default
