@@ -5,6 +5,8 @@ gem 'haml-rails'
 gem 'sqlite3'
 gem 'jquery-rails'
 
+gem 'thin'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -19,6 +21,7 @@ group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'guard-livereload'
+  gem 'coffee-rails-source-maps'
 end
 
 group :test, :development do
