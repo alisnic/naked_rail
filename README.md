@@ -6,6 +6,7 @@ A ready to go Rails 3.2.11 app!
 **Development:**
 - better_errors
 - guard livereload (run guard in project root to enable it, also install [the browser extension][1])
+- coffee-script-source-maps (just enable them in chrome)
 
 **Testing**
 - rspec
