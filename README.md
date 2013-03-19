@@ -1,5 +1,5 @@
 # Naked Rails!
-A ready to go Rails 3.2.11 app!
+A ready to go Rails 3.2.13 app!
 
 ## Featuring
 
